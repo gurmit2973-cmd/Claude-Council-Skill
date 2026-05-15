@@ -1,3 +1,9 @@
+---
+name: Claude Council
+description: Multi-agent AI council for structured debate and decision-making
+version: 1.0.0
+---
+
 # Claude Council
 
 **A Claude skill that convenes 7 expert AI personas to debate any decision, idea, or problem — then synthesizes a verdict.**
